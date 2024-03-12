@@ -3,6 +3,7 @@
 # Date: 2024-03-11
 # Version: 1.0
 # Do not remove this Attribution if you use this code.
+# Nottify the author if you want to use this code before using it.
 
 def affine_encode(a, b, plain_text):
     alphabet = 'abcdefghijklmnñopqrstuvwxyz'

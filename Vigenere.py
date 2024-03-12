@@ -3,6 +3,8 @@
 # Date: 2024-03-12
 # Version: 1.0
 # Do not remove this Attribution if you use this code.
+# Nottify the author if you want to use this code before using it.
+
 def vigenere_encode(message, key):
     encoded_message = ""
     alphabet = "abcdefghijklmnñopqrstuvwxyz"

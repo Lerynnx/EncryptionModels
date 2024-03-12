@@ -4,6 +4,7 @@
     Date: 2024-03-11
     Version: 1.1
     Do not remove this Attribution if you use this code.
+    Nottify the author if you want to use this code before using it.
 """
 def encrypt(text, key, start):
     text_len = len(text)
