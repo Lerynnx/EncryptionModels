@@ -131,7 +131,7 @@ def decrypt(encrypted_text, key, start):
     return ''.join(decrypted_text)
 
 text = "tengoqueaprendercriptografiaclasicaparaaprobarlaasignaturadeseguridadinformaticaycriptografia"
-key = "ESTAUNCLV" #Yoy can't repeat letters in the key
+key = "ESTAUNCLV" #You mustn't repeat letters in the key
 start = 2
 
 encrypted_text = encrypt(text.lower(), key.lower(), start)
